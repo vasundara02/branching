@@ -2,5 +2,5 @@
 void main()
 {
 printf("hello world my name is");
-  6
+  66
 }
